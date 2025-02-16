@@ -4,44 +4,58 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Telebox in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Get started by **Downloading the software**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+In the repo **Github** with **[Telebox on github](https://github.com/joedebiden/Telegram-scraper-adder-app)**.
+
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- [Python ](https://www.python.org/downloads/release/python-3129/) version 10 or above (12.9 is perfect):
+  - When installing Python, you are recommended to check all checkboxes expecially the one who add Python to the env path.
+  - Need [pip](https://packaging.python.org/en/latest/tutorials/installing-packages/) to install all the libraries.
 
-## Generate a new site
+- [Telegram account](https://my.telegram.org/auth) get all the details of your telegram account
+  - It include the `api_id`, `api_hash`, `phone number`.
 
-Generate a new Docusaurus site using the **classic template**.
+
+## Installation
+
+Once you've gone to the official [python website](https://www.python.org/) and downloaded the executable, run it and check all the boxes.
 
 The classic template will automatically be added to your project after you run the command:
 
+### 1 Clone the project
+If it hasn't already
 ```bash
-npm init docusaurus@latest my-website classic
+git clone https://github.com/joedebiden/Telegram-scraper-adder-app.git
+cd Telebox-app
 ```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
+### 2 Start a virtual environment
+In the directory where the **requirements.txt** file is located
 ```bash
-cd my-website
-npm run start
+python -m venv .venv
+.venv\Scripts\activate 
+```
+### 3 Install the dependencies
+```bash
+pip install -r requirements.txt
 ```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## Start Telebox app
+Now every time you want to use the app, just open the **virtual environment**
+you normally see a **(.venv)** in first line of the cmd else type:
+```bash
+.venv\Scripts\activate 
+```
+&
+```bash
+python telebox\main.py 
+```
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Now let's take a closer look at how to use Telebox's features.
