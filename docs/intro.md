@@ -29,27 +29,36 @@ Once you've gone to the official [python website](https://www.python.org/) and d
 ![image](@site/static/img/python-installer.webp)
 
 ### 1 Clone the project
+
 If it hasn't already
+
 ```bash
 git clone https://github.com/joedebiden/Telegram-scraper-adder-app.git
 cd Telebox-app
 ```
 
 ### 2 Start a virtual environment
+
 In the directory where the **requirements.txt** file is located
+
 ```bash
 python -m venv .venv
 .venv\Scripts\activate 
 ```
+
 ### 3 Install the dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
 
 ## Start Telebox app
+
 Now every time you want to use the app, just open the **virtual environment**
 you normally see a **(.venv)** in first line of the cmd else type:
+
 ![image](@site/static/img/venv-cmd-show.webp)
+
 ```bash
 .venv\Scripts\activate 
 ```
@@ -59,3 +68,5 @@ python telebox\main.py
 ```
 
 Now let's take a closer look at how to use Telebox's features.
+
+![image](@site/static/img/overview-app.webp)

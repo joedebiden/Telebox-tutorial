@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/use-adder",
+  "title": "Use the Telebox adder",
+  "description": "You have two options for using the adder, the first is simple but buggy, the other is the application on cmd and it's a command line to type, but it works perfectly.",
+  "source": "@site/docs/tutorial-basics/use-adder.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/use-adder",
+  "permalink": "/docs/tutorial-basics/use-adder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/joedebiden/Telegram-scraper-adder-app/docs/tutorial-basics/use-adder.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Use the Telebox scraper",
+    "permalink": "/docs/tutorial-basics/use-scraper"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/docs/tutorial-basics/markdown-features"
+  }
+}

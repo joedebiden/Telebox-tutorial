@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Document",
-    "permalink": "/docs/tutorial-basics/create-a-document"
+    "title": "Use the Telebox scraper",
+    "permalink": "/docs/tutorial-basics/use-scraper"
   },
   "next": {
     "title": "Markdown Features",

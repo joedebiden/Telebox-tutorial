@@ -1,7 +1,7 @@
 {
   "id": "tutorial-basics/add-an-account",
   "title": "Add a Telegram account",
-  "description": "With the apiid and apihash you retrieved from the Telegram Auth, you can put them in the application and register the connection.",
+  "description": "Get api credentials",
   "source": "@site/docs/tutorial-basics/add-an-account.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/add-an-account",
@@ -21,7 +21,7 @@
     "permalink": "/docs/category/tutorial---basics"
   },
   "next": {
-    "title": "Create a Document",
-    "permalink": "/docs/tutorial-basics/create-a-document"
+    "title": "Use the Telebox scraper",
+    "permalink": "/docs/tutorial-basics/use-scraper"
   }
 }

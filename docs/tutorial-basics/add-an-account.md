@@ -4,43 +4,15 @@ sidebar_position: 1
 
 # Add a Telegram account
 
+## Get api credentials
+
 With the `api_id` and `api_hash` you retrieved from the [Telegram Auth](https://my.telegram.org/auth), you can put them in the application and register the connection.
 ![image](@site/static/img/api-info.webp)
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+## Insert information
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+Simply copy and paste the info into the box on the top side, then click on `Add an account`.
 
-## Create your first React Page
+![image](@site/static/img/account-info.webp)
 
-Create a file at `src/pages/my-react-page.js`:
-
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
-
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
-
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
-
-## Create your first Markdown Page
-
-Create a file at `src/pages/my-markdown-page.md`:
-
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+It's all for adding account, of course, you can add as many accounts as you like.

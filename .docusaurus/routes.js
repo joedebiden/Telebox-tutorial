@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b37'),
+    component: ComponentCreator('/docs', '16d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'a8b'),
+        component: ComponentCreator('/docs', '7bc'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '67b'),
+            component: ComponentCreator('/docs', '32c'),
             routes: [
               {
                 path: '/docs/category/tutorial---basics',
@@ -155,18 +155,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '108'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-document', '8fc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/tutorial-basics/deploy-your-site',
                 component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', '4f5'),
                 exact: true,
@@ -175,6 +163,18 @@ export default [
               {
                 path: '/docs/tutorial-basics/markdown-features',
                 component: ComponentCreator('/docs/tutorial-basics/markdown-features', 'b05'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tutorial-basics/use-adder',
+                component: ComponentCreator('/docs/tutorial-basics/use-adder', 'ef3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tutorial-basics/use-scraper',
+                component: ComponentCreator('/docs/tutorial-basics/use-scraper', 'f50'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

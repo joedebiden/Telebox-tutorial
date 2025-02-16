@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/use-scraper",
+  "title": "Use the Telebox scraper",
+  "description": "Select an account",
+  "source": "@site/docs/tutorial-basics/use-scraper.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/use-scraper",
+  "permalink": "/docs/tutorial-basics/use-scraper",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/joedebiden/Telegram-scraper-adder-app/docs/tutorial-basics/use-scraper.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add a Telegram account",
+    "permalink": "/docs/tutorial-basics/add-an-account"
+  },
+  "next": {
+    "title": "Use the Telebox adder",
+    "permalink": "/docs/tutorial-basics/use-adder"
+  }
+}
