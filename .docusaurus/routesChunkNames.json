@@ -249,17 +249,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-733": {
+  "/docs-b37": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-7e6": {
+  "/docs-a8b": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-ba6": {
+  "/docs-67b": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/tutorial---basics-20e": {
@@ -274,6 +274,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
   },
+  "/docs/tutorial-basics/add-an-account-647": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-add-an-account-601-f2d"
+  },
   "/docs/tutorial-basics/congratulations-458": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-congratulations-822-958"
@@ -285,10 +289,6 @@
   "/docs/tutorial-basics/create-a-document-8fc": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
-  },
-  "/docs/tutorial-basics/create-a-page-951": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
   },
   "/docs/tutorial-basics/deploy-your-site-4f5": {
     "__comp": "__comp---theme-doc-item-178-a40",

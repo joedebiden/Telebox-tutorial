@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/add-an-account",
+  "title": "Add a Telegram account",
+  "description": "With the apiid and apihash you retrieved from the Telegram Auth, you can put them in the application and register the connection.",
+  "source": "@site/docs/tutorial-basics/add-an-account.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/add-an-account",
+  "permalink": "/docs/tutorial-basics/add-an-account",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/joedebiden/Telegram-scraper-adder-app/docs/tutorial-basics/add-an-account.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/docs/tutorial-basics/create-a-document"
+  }
+}

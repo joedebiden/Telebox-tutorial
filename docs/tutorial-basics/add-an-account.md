@@ -2,7 +2,10 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+# Add a Telegram account
+
+With the `api_id` and `api_hash` you retrieved from the [Telegram Auth](https://my.telegram.org/auth), you can put them in the application and register the connection.
+![image](@site/static/img/api-info.webp)
 
 Add **Markdown or React** files to `src/pages` to create a **standalone page**:
 

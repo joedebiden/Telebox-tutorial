@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '733'),
+    component: ComponentCreator('/docs', 'b37'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '7e6'),
+        component: ComponentCreator('/docs', 'a8b'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'ba6'),
+            component: ComponentCreator('/docs', '67b'),
             routes: [
               {
                 path: '/docs/category/tutorial---basics',
@@ -143,6 +143,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/tutorial-basics/add-an-account',
+                component: ComponentCreator('/docs/tutorial-basics/add-an-account', '647'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/tutorial-basics/congratulations',
                 component: ComponentCreator('/docs/tutorial-basics/congratulations', '458'),
                 exact: true,
@@ -157,12 +163,6 @@ export default [
               {
                 path: '/docs/tutorial-basics/create-a-document',
                 component: ComponentCreator('/docs/tutorial-basics/create-a-document', '8fc'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-page', '951'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -15,7 +15,7 @@ In the repo **Github** with **[Telebox on github](https://github.com/joedebiden/
 
 ### What you'll need
 
-- [Python ](https://www.python.org/downloads/release/python-3129/) version 10 or above (12.9 is perfect):
+- [Python](https://www.python.org/downloads/release/python-3129/) version 10 or above (12.9 is perfect):
   - When installing Python, you are recommended to check all checkboxes expecially the one who add Python to the env path.
   - Need [pip](https://packaging.python.org/en/latest/tutorials/installing-packages/) to install all the libraries.
 
@@ -26,8 +26,7 @@ In the repo **Github** with **[Telebox on github](https://github.com/joedebiden/
 ## Installation
 
 Once you've gone to the official [python website](https://www.python.org/) and downloaded the executable, run it and check all the boxes.
-
-The classic template will automatically be added to your project after you run the command:
+![image](@site/static/img/python-installer.webp)
 
 ### 1 Clone the project
 If it hasn't already
@@ -50,6 +49,7 @@ pip install -r requirements.txt
 ## Start Telebox app
 Now every time you want to use the app, just open the **virtual environment**
 you normally see a **(.venv)** in first line of the cmd else type:
+![image](@site/static/img/venv-cmd-show.webp)
 ```bash
 .venv\Scripts\activate 
 ```
