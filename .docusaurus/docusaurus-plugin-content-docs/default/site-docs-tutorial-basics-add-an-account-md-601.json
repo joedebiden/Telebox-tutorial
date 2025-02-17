@@ -5,7 +5,7 @@
   "source": "@site/docs/tutorial-basics/add-an-account.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/add-an-account",
-  "permalink": "/docs/tutorial-basics/add-an-account",
+  "permalink": "/fr/docs/tutorial-basics/add-an-account",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/joedebiden/Telegram-scraper-adder-app/docs/tutorial-basics/add-an-account.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tutorial - Telebox",
-    "permalink": "/docs/category/tutorial---telebox"
+    "permalink": "/fr/docs/category/tutorial---telebox"
   },
   "next": {
     "title": "Use the Telebox scraper",
-    "permalink": "/docs/tutorial-basics/use-scraper"
+    "permalink": "/fr/docs/tutorial-basics/use-scraper"
   }
 }

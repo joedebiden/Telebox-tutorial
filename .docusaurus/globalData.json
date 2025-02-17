@@ -1,38 +1,38 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/fr/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/fr/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/fr/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/add-an-account",
-              "path": "/docs/tutorial-basics/add-an-account",
+              "path": "/fr/docs/tutorial-basics/add-an-account",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/use-adder",
-              "path": "/docs/tutorial-basics/use-adder",
+              "path": "/fr/docs/tutorial-basics/use-adder",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/use-scraper",
-              "path": "/docs/tutorial-basics/use-scraper",
+              "path": "/fr/docs/tutorial-basics/use-scraper",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---telebox",
-              "path": "/docs/category/tutorial---telebox",
+              "path": "/fr/docs/category/tutorial---telebox",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -40,7 +40,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/fr/docs/intro",
                 "label": "intro"
               }
             }

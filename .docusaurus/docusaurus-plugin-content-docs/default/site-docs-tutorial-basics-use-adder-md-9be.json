@@ -5,7 +5,7 @@
   "source": "@site/docs/tutorial-basics/use-adder.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/use-adder",
-  "permalink": "/docs/tutorial-basics/use-adder",
+  "permalink": "/fr/docs/tutorial-basics/use-adder",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/joedebiden/Telegram-scraper-adder-app/docs/tutorial-basics/use-adder.md",
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Use the Telebox scraper",
-    "permalink": "/docs/tutorial-basics/use-scraper"
+    "permalink": "/fr/docs/tutorial-basics/use-scraper"
   }
 }

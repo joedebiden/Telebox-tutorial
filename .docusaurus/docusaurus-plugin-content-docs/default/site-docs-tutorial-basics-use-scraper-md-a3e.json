@@ -5,7 +5,7 @@
   "source": "@site/docs/tutorial-basics/use-scraper.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/use-scraper",
-  "permalink": "/docs/tutorial-basics/use-scraper",
+  "permalink": "/fr/docs/tutorial-basics/use-scraper",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/joedebiden/Telegram-scraper-adder-app/docs/tutorial-basics/use-scraper.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Add a Telegram account",
-    "permalink": "/docs/tutorial-basics/add-an-account"
+    "permalink": "/fr/docs/tutorial-basics/add-an-account"
   },
   "next": {
     "title": "Use the Telebox adder",
-    "permalink": "/docs/tutorial-basics/use-adder"
+    "permalink": "/fr/docs/tutorial-basics/use-adder"
   }
 }

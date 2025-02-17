@@ -8,7 +8,7 @@ export default {
   "tagline": "The tutorial for Telebox",
   "favicon": "img/telebox.ico",
   "url": "https://telegram-toolbox.online",
-  "baseUrl": "/",
+  "baseUrl": "/fr/",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
