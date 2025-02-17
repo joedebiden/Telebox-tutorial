@@ -1,6 +1,6 @@
 {
   "id": "intro",
-  "title": "Tutorial Intro",
+  "title": "Telebox Intro",
   "description": "Let's discover Telebox in less than 5 minutes.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/docs/category/tutorial---basics"
+    "title": "Tutorial - Telebox",
+    "permalink": "/docs/category/tutorial---telebox"
   }
 }

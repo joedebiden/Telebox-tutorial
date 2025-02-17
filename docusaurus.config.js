@@ -33,7 +33,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en','fr'],
   },
 
   presets: [
@@ -74,12 +74,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/logo-telebox.png',
       navbar: {
-        title: 'My Site',
+        title: 'Telebox',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Telebox Logo',
+          src: 'img/logo-telebox.svg',
         },
         items: [
           {
@@ -88,10 +88,10 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: 'https://evanh.site', label: 'Portfolio', position: 'left'},
           {
-            href: 'https://github.com/joedebiden/Telegram-scraper-adder-app',
-            label: 'GitHub',
+            href: 'https://evanh.site', 
+            label: 'Portfolio',
             position: 'right',
           },
         ],
@@ -109,32 +109,15 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'About',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Portfolio',
+                href: 'https://evanh/site ',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/joedebiden',
               },
             ],
           },

@@ -24,7 +24,12 @@ If this is your **first connection** with the telegram account, the app will ask
 
 Next, select the group/channel in which you want to **scrape** and click on `scrape group`.
 
+:::tip[Note]
+
 * The group/channel must have permission to show members. By definition, you can't scrap members of a private group that blocks access to members.
+
+:::
+
 
 ![image](@site/static/img/select-group.webp)
 

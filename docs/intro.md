@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Telebox Intro
 
 Let's discover **Telebox in less than 5 minutes**.
 
