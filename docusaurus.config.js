@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Telebox',
   tagline: 'The tutorial for Telebox',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/telebox.ico',
 
   // Set the production url of your site here
   url: 'https://telegram-toolbox.online',
@@ -79,7 +79,7 @@ const config = {
         title: 'Telebox',
         logo: {
           alt: 'Telebox Logo',
-          src: 'img/logo-telebox.svg',
+          src: 'img/logo-telebox.png',
         },
         items: [
           {
@@ -90,8 +90,8 @@ const config = {
           },
           {to: 'https://evanh.site', label: 'Portfolio', position: 'left'},
           {
-            href: 'https://evanh.site', 
-            label: 'Portfolio',
+            href: 'https://github.com/joedebiden', 
+            label: 'Github',
             position: 'right',
           },
         ],
@@ -113,7 +113,7 @@ const config = {
             items: [
               {
                 label: 'Portfolio',
-                href: 'https://evanh/site ',
+                href: 'https://evanh.site ',
               },
               {
                 label: 'GitHub',
@@ -122,7 +122,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Telebox, free project and open source.`,
       },
       prism: {
         theme: prismThemes.github,
